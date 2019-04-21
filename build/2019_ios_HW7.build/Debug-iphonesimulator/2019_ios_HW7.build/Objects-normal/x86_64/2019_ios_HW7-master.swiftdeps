@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c23e5157be9aa0c7a9d7125762e51b28"
+build_time: [1555855695, 670071000]
+inputs:
+  "/Users/river/Desktop/2019_ios_HW7/2019_ios_HW7/ViewController.swift": [1555855693, 0]
+  "/Users/river/Desktop/2019_ios_HW7/2019_ios_HW7/AppDelegate.swift": [1555666467, 0]
